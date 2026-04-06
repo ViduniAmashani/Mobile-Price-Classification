@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional - if files are large)
+# data/raw/
+
+# Environment
+.env
+venv/
